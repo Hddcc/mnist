@@ -90,6 +90,6 @@ The script provides an interactive menu with these options:
 • `data/`: Directory containing the raw MNIST dataset files
 
 
-Note
+# Note
 
 The project expects MNIST data files in their original binary format (.ubyte files) in the specified directory structure. For custom predictions, provide clear images of handwritten digits (black digits on white background work best).
