@@ -42,9 +42,8 @@ data/
 
 1. Create Virtual Environment (Optional but recommended):
    ```bash
-   python -m venv mnist_env
-   source mnist_env/bin/activate  # Linux/Mac
-   mnist_env\Scripts\activate     # Windows
+   conda create -n mnist_env python=3.x
+   conda activate mnist_env
    ```
 
 2. Install Dependencies:
