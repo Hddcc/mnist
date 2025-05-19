@@ -25,7 +25,7 @@ data/
 
 # Requirements
 
-• Python 3.x
+• Python 3.9
 
 • Required packages:
 
@@ -42,7 +42,7 @@ data/
 
 1. Create Virtual Environment (Optional but recommended):
    ```bash
-   conda create -n mnist_env python=3.x
+   conda create -n mnist_env python=3.9 
    conda activate mnist_env
    ```
 
