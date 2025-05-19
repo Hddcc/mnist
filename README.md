@@ -6,7 +6,7 @@ MNIST Handwritten Digit Recognition with CNN
 
 Project Structure
 ```
-20250509_MNIST_DENGDI/
+data/
 ├── data/
 │   └── MNIST/
 │       └── MNIST/
