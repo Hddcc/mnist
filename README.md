@@ -4,7 +4,7 @@
 
 MNIST Handwritten Digit Recognition with CNN
 
-Project Structure
+# Project Structure
 ```
 data/
 ├── data/
@@ -23,7 +23,8 @@ data/
 └── train.py            # Main Python script
 ```
 
-Requirements
+# Requirements
+
 • Python 3.x
 
 • Required packages:
@@ -37,7 +38,7 @@ Requirements
   • Matplotlib (for image display)
 
 
-Setup Instructions
+# Setup Instructions
 
 1. Create Virtual Environment (Optional but recommended):
    ```bash
@@ -51,7 +52,7 @@ Setup Instructions
    pip install tensorflow numpy opencv-python matplotlib
    ```
 
-Project Description
+# Project Description
 
 This project implements a Convolutional Neural Network (CNN) for recognizing handwritten digits from the MNIST dataset. The implementation includes:
 
@@ -66,7 +67,7 @@ This project implements a Convolutional Neural Network (CNN) for recognizing han
 • Interactive command-line interface for user interaction
 
 
-Usage
+# Usage
 
 1. Run the main script:
    ```bash
@@ -81,7 +82,7 @@ The script provides an interactive menu with these options:
 • Exit the program
 
 
-File Descriptions
+# File Descriptions
 
 • `train.py`: Contains all project code including data loading, model definition, training, and prediction functions
 
